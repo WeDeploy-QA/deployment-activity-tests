@@ -1,3 +1,3 @@
 # Deployment Activity Tests
-## dockerfile-typo
-Dockerfile contains a typo
+## wedeploy-json-invalid-image
+wedeploy.json contains an invalid image

@@ -1,4 +1,5 @@
 {
-	"id": "blog",
-	"volume": "/var/lib/ghost/content"
+  "id": "md",
+  "image": "mongoqatest12345",
+  "volume": "/data/db"
 }
