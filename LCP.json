@@ -1,4 +1,3 @@
 {
-	"id": "blog",
-	"volume": "/var/lib/ghost/content"
+	"id": "blog"
 }
